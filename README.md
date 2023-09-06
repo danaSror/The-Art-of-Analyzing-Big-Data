@@ -23,8 +23,8 @@ Year - an event that occurred this year
 
 > After that, we tried to see if there is a match between the events of the singer's life and the lyrics of his songs, his photos and the content of the tweets he posts on social networks.
 
-
-
+---
+Link: https://colab.research.google.com/drive/1lgbHUMQFiBgkjpodpoMp0zc1AFgha-I5?usp=sharing
 
 
 
